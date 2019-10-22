@@ -1,0 +1,35 @@
+body {
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: hsl(220, 52%, 27%)
+}
+
+center {}
+
+body {}
+
+#header-one-font {
+    font-size: 2em;
+    font-family: "calibri";
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#img-circle {
+    border-radius: 50%;
+    max-width: 15%;
+    max-height: 15%;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p-font {
+    font color: hsl(119, 100%, 32.4%)
+}
+
+li {
+    font-family: Calibri
+}
